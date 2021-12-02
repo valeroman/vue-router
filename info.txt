@@ -1,0 +1,15 @@
+#-- Vue Router Instalacion Manual --#
+
+    doc => https://next.router.vuejs.org/
+
+    instalar el vue router:
+        => yarn add vue-router@4
+
+
+
+    #-- Lifecycle Diagram --#
+        doc => https://v3.vuejs.org/guide/instance.html#lifecycle-hooks
+
+
+    #-- Lifecycle Hooks --#
+        doc => https://v3.vuejs.org/guide/composition-api-lifecycle-hooks.html
